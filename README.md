@@ -35,6 +35,7 @@ The front end of this project reference SushiSwap and demos the process of LP to
 <a href="https://github.com/bzpassersby/pandaa-swap/issues">Request Feature</a>
 
   </p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
