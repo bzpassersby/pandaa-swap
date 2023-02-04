@@ -21,7 +21,7 @@
 <h3 align="center">Panda Swap</h3>
 
   <p align="center">
-Panda swap provides Panda token rewards for users who stakes in Uniswap liquidity pools. For users to gain Panda rewards, they simply need to stake their LP tokens which proof their share in the liquidity pool.
+Panda swap provides Panda token rewards for users who stakes in Uniswap liquidity pools. For users to gain Panda rewards, they simply need to stake their LP tokens which prove their share in the liquidity pool.
 
 Note that the current scope of this repo is limited to the back end implementation of the supply and distribution of Panda tokens.
 
@@ -51,7 +51,6 @@ The front end of this project reference SushiSwap and demos the process of LP to
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#deployment-guide">Deployment</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
